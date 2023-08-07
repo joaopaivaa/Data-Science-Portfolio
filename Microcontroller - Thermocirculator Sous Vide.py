@@ -1,4 +1,3 @@
-# Complete project details at https://RandomNerdTutorials.com
 import network
 import socket
 import onewire, ds18x20, sh1106, time, os, sys, math
